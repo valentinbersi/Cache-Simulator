@@ -21,3 +21,5 @@ It outputs a summary with the next format:
 And verbose operations within the given range with the next format:
 * [op-index] [1 (hit) | 2a (miss) | 2b (dirty-miss)] [cache-index] [cache-tag] [cache-line] [previous-tag] [valid]
 [dirty] [last-op-index]
+
+The task came with some example trace files, expected output files a script for testing with the examples and another script to run valgrind.
