@@ -1,5 +1,5 @@
-# Cache Tracer
- A cache tracer to measure the cache hits/misses of a program.
+# Cache Simulator
+ A cache simulator to measure the cache hits/misses of a program.
 
 This was a task from the subject Computer Organization.
 It consisted of implementing a cache tracer.
